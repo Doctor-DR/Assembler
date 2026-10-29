@@ -1,0 +1,8 @@
+{
+  "name": "Assembler",
+  "description": "Lab-integrated calculator for NEBuilder HiFi and Gibson DNA assembly. Automates vector/insert molar ratios (dsDNA vs ssDNA), intelligent pipetting dilution suggestions, reaction mix preparation, and bench protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
